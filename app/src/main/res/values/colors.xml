@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F58F59</color>
+
+    <color name="colorPrimaryDark">#F37735</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background colour for the Restaurants category -->
+    <color name="category_restaurants">#d11141</color>
+
+    <!-- Background colour for the Scenic Spots category -->
+    <color name="category_other">#00b159</color>
+
+    <!-- Background colour for the Museums category -->
+    <color name="category_museums">#00aedb</color>
+
+    <!-- Background colour for the Shopping category -->
+    <color name="category_shopping">#88aedb</color>
+</resources>
