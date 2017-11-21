@@ -39,7 +39,7 @@
                 android:textAppearance="?android:textAppearanceMedium"
                 android:textColor="@android:color/white"
                 android:textStyle="bold"
-                android:text="lutti"
+                tools:text="lutti"
                 />
 
 
@@ -50,7 +50,7 @@
                 android:layout_weight="1"
                 android:textAppearance="?android:textAppearanceMedium"
                 android:textColor="@android:color/white"
-                android:text="one"
+                tools:text="one"
                 />
 
 

@@ -6,4 +6,11 @@
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
 
+    <!-- Pages -->
+    <string name="home_string">Home</string>
+    <string name="restaurants_string">Restaurants</string>
+    <string name="shopping_string">Shopping</string>
+    <string name="museums_string">Museums</string>
+    <string name="other_string">Other</string>
+
 </resources>
