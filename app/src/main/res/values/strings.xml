@@ -13,4 +13,128 @@
     <string name="museums_string">Museums</string>
     <string name="other_string">Other</string>
 
+    <!-- Restaurants -->
+    <string name="scaramouche_name">Scaramouche Restaurant</string>
+    <string name="scaramouche_address">1 Benvenuto Pl.</string>
+
+    <string name="alo_name">Alo Restaurant</string>
+    <string name="alo_address">163 Spadina Ave.</string>
+
+    <string name="byblos_name">Byblos</string>
+    <string name="byblos_address">11 Duncan St.</string>
+
+    <string name="canoe_name">Canoe Restaurant &amp; Bar</string>
+    <string name="canoe_address">66 Wellington St. W.</string>
+
+    <string name="richmond_name">Richmond Station</string>
+    <string name="richmond_address">1 Richmond St. W.</string>
+
+    <string name="keg_name">The Keg Steakhouse + Bar</string>
+    <string name="keg_address">165 York St.</string>
+
+    <string name="lavinia_name">LaVinia Restaurant</string>
+    <string name="lavinia_address">2350 Lake Shore Blvd W.</string>
+
+    <string name="pai_name">Pai Northern Thai Kitchen</string>
+    <string name="pai_address">18 Duncan St.</string>
+
+    <string name="rodneys_name">Rodney\'s Oyster House</string>
+    <string name="rodneys_address">469 King St. W.</string>
+
+    <string name="estiatorio_name">Estiatorio VOLOS</string>
+    <string name="estiatorio_address">133 Richmond St. W.</string>
+
+    <!-- Shopping -->
+    <string name="the_path_name">The Path</string>
+    <string name="the_path_address">31 Adelaide St. E.</string>
+    
+    <string name="sherway_gardens_name">Sherway Gardens</string>
+    <string name="sherway_gardens_address">25 The West Mall</string>
+    
+    <string name="town_centre_name">Scarborough Town Centre</string>
+    <string name="town_centre_address">300 Borough Dr.</string>
+    
+    <string name="brick_works_name">Evergreen Brick Works</string>
+    <string name="brick_works_address">550 Bayview Ave.</string>
+    
+    <string name="yorkdale_centre_name">Yorkdale Shopping Centre</string>
+    <string name="yorkdale_centre_address">3401 Dufferin St.</string>
+    
+    <string name="eaton_centre_name">CF Toronto Eaton Centre</string>
+    <string name="eaton_centre_address">220 Yonge St.</string>
+
+    <string name="lawrence_market_name">St. Lawrence Market</string>
+    <string name="lawrence_market_address">92-95 Front St. E.</string>
+
+    <string name="brookfield_place_name">Brookfield Place</string>
+    <string name="brookfield_place_address">181 Bay St.</string>
+
+    <string name="market_gallery_name">The Market Gallery</string>
+    <string name="market_gallery_address">95 Front St. E.</string>
+
+    <string name="fairview_name">Fairview</string>
+    <string name="fairview_address">1800 Sheppard Ave. E.</string>
+
+    <!-- Museums -->
+    <string name="power_plant_name">The Power Plant</string>
+    <string name="power_plant_address">231 Queens Quay W.</string>
+
+    <string name="textile_museum_name">Textile Museum of Canada</string>
+    <string name="textile_museum_address">55 Centre Ave.</string>
+
+    <string name="mackenzie_house_name">Mackenzie House</string>
+    <string name="mackenzie_house_address">82 Bond St.</string>
+
+    <string name="railway_museum_name">Toronto Railway Museum</string>
+    <string name="railway_museum_address">255 Bremner Blvd</string>
+
+    <string name="hockey_hall_name">Hockey Hall of Fame</string>
+    <string name="hockey_hall_address">30 Yonge St.</string>
+
+    <string name="royal_ontario_name">Royal Ontario Museum</string>
+    <string name="royal_ontario_address">100 Queen\'s Pk</string>
+
+    <string name="bata_museum_name">Bata Shoe Museum</string>
+    <string name="bata_museum_address">327 Bloor St. W.</string>
+
+    <string name="spadina_museum_name">Spadina Museum</string>
+    <string name="spadina_museum_address">285 Spadina Rd</string>
+
+    <string name="gardiner_museum_name">Gardiner Museum</string>
+    <string name="gardiner_museum_address">111 Queen\'s Pk</string>
+
+    <string name="fort_york_name">Fort York National Historic Site</string>
+    <string name="fort_york_address">250 Fort York Blvd</string>
+
+    <!-- Other -->
+    <string name="allan_garden_name">Allan Garden</string>
+    <string name="allan_garden_address">19 Horticultural Ave.</string>
+
+    <string name="canadas_wonderland_name">Canada\'s Wonderlan</string>
+    <string name="canadas_wonderland_address">1 Canada\'s Wonderland Dr.</string>
+
+    <string name="casa_loma_name">Casa Loma</string>
+    <string name="casa_loma_address">1 Austin Terrace</string>
+
+    <string name="art_gallery_name">Art Gallery of Ontario</string>
+    <string name="art_gallery_address">317 Dundas St. W.</string>
+
+    <string name="cn_tower_name">CN Tower</string>
+    <string name="cn_tower_address">301 Front St. W.</string>
+
+    <string name="harbourfront_name">Harbourfront</string>
+    <string name="harbourfront_address">235 Queens Quay W.</string>
+
+    <string name="science_centre_name">Ontario Science Centre</string>
+    <string name="science_centre_address">770 Don Mills Rd</string>
+
+    <string name="ripleys_aquarium_name">Ripley\'s Aquarium</string>
+    <string name="ripleys_aquarium_address">288 Bremner Blvd</string>
+
+    <string name="ontario_museum_name">Royal Ontario Museum</string>
+    <string name="ontario_museum_address">100 Queens Park</string>
+
+    <string name="toronto_zoo_name">Toronto Zoo</string>
+    <string name="toronto_zoo_address">2000 Meadowvale Rd</string>
+
 </resources>

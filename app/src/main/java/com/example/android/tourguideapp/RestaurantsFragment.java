@@ -23,16 +23,16 @@ public class RestaurantsFragment extends Fragment {
 
         // Create a list of places
         final ArrayList<Place> places = new ArrayList<Place>();
-        places.add(new Place("Scaramouche Restaurant", "1 Benvenuto Pl."));
-        places.add(new Place("Alo Restaurant", "163 Spadina Ave."));
-        places.add(new Place("Byblos", "11 Duncan St."));
-        places.add(new Place("Canoe Restaurant & Bar", "66 Wellington St. W."));
-        places.add(new Place("Richmond Station", "1 Richmond St. W."));
-        places.add(new Place("The Keg Steakhouse + Bar", "165 York St."));
-        places.add(new Place("LaVinia Restaurant", "2350 Lake Shore Blvd W."));
-        places.add(new Place("Pai Northern Thai Kitchen", "18 Duncan St."));
-        places.add(new Place("Rodney's Oyster House", "469 King St. W."));
-        places.add(new Place("Estiatorio VOLOS", "133 Richmond St. W."));
+        places.add(new Place(getString(R.string.scaramouche_name), getString(R.string.scaramouche_address)));
+        places.add(new Place(getString(R.string.alo_name), getString(R.string.alo_address)));
+        places.add(new Place(getString(R.string.byblos_name), getString(R.string.byblos_address)));
+        places.add(new Place(getString(R.string.canoe_name), getString(R.string.canoe_address)));
+        places.add(new Place(getString(R.string.richmond_name), getString(R.string.richmond_address)));
+        places.add(new Place(getString(R.string.keg_name), getString(R.string.keg_address)));
+        places.add(new Place(getString(R.string.lavinia_name), getString(R.string.lavinia_address)));
+        places.add(new Place(getString(R.string.pai_name), getString(R.string.pai_address)));
+        places.add(new Place(getString(R.string.rodneys_name), getString(R.string.rodneys_address)));
+        places.add(new Place(getString(R.string.estiatorio_name), getString(R.string.estiatorio_address)));
 
         // Create an {@link PlaceAdapter}, whose data source is a list of {@link Place}s. This adapter
         // creates the list items for each item in the list.

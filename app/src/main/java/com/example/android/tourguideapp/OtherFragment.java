@@ -23,34 +23,34 @@ public class OtherFragment extends Fragment {
 
         // Create a list of locations
         final ArrayList<Place> places = new ArrayList<Place>();
-        places.add(new Place("Allan Garden", "19 Horticultural Ave.", R.drawable.allans_garden));
+        places.add(new Place(getString(R.string.allan_garden_name), getString(R.string.allan_garden_address), R.drawable.allans_garden));
         // Source: https://commons.wikimedia.org/wiki/Toronto#/media/File:Allan_Gardens_looking_west.jpg
 
-        places.add(new Place("Canada's Wonderland", "1 Canada's Wonderland Dr.", R.drawable.canadas_wonderland));
+        places.add(new Place(getString(R.string.canadas_wonderland_name), getString(R.string.canadas_wonderland_address), R.drawable.canadas_wonderland));
         // Source: https://commons.wikimedia.org/wiki/Category:Canada%27s_Wonderland#/media/File:Canada%27s_Wonderland_Main_Square.jpg
 
-        places.add(new Place("Casa Loma", "1 Austin Terrace", R.drawable.casa_loma));
+        places.add(new Place(getString(R.string.casa_loma_name), getString(R.string.casa_loma_address), R.drawable.casa_loma));
         // Source: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Casa_Loma%2C_Toronto_%286264979572%29.jpg/1024px-Casa_Loma%2C_Toronto_%286264979572%29.jpg
 
-        places.add(new Place("Art Gallery of Ontario", "317 Dundas St. W.", R.drawable.art_gallery_of_ontario));
+        places.add(new Place(getString(R.string.art_gallery_name), getString(R.string.art_gallery_address), R.drawable.art_gallery_of_ontario));
         // Source: http://vmetal.com/wp-content/uploads/2017/01/art-gallery-of-ontario-dusk.jpg
 
-        places.add(new Place("CN Tower", "301 Front St. W.", R.drawable.cn_tower));
+        places.add(new Place(getString(R.string.cn_tower_name), getString(R.string.cn_tower_address), R.drawable.cn_tower));
         // Source: https://commons.wikimedia.org/wiki/File:Toronto_at_Dusk_-a.jpg
 
-        places.add(new Place("Harbourfront", "235 Queens Quay W.", R.drawable.harbourfront));
+        places.add(new Place(getString(R.string.harbourfront_name), getString(R.string.harbourfront_address), R.drawable.harbourfront));
         // Source: http://www.getwhatyouwant.ca/wp-content/uploads/2015/01/Harbourfront-Toronto-Amsterdam-Bridge.jpg
 
-        places.add(new Place("Ontario Science Centre", "770 Don Mills Rd", R.drawable.ontario_science_centre));
+        places.add(new Place(getString(R.string.science_centre_name), getString(R.string.science_centre_address), R.drawable.ontario_science_centre));
         // Source: https://commons.wikimedia.org/wiki/Toronto#/media/File:Ontario_Science_Centre_(249019835).jpg
 
-        places.add(new Place("Ripley's Aquarium", "288 Bremner Blvd", R.drawable.ripleys_aquarium));
+        places.add(new Place(getString(R.string.ripleys_aquarium_name), getString(R.string.ripleys_aquarium_address), R.drawable.ripleys_aquarium));
         // Source: http://www.bestoftoronto.net/wp-content/uploads/2013/10/Ripleys-Aquarium-BestofToronto-2013-022.jpg
 
-        places.add(new Place("Royal Ontario Museum", "100 Queens Park", R.drawable.royal_ontario_museum));
+        places.add(new Place(getString(R.string.ontario_museum_name), getString(R.string.ontario_museum_address), R.drawable.royal_ontario_museum));
         // Source: https://commons.wikimedia.org/wiki/Toronto#/media/File:ROMCrystal4.jpg
 
-        places.add(new Place("Toronto Zoo", "2000 Meadowvale Rd", R.drawable.toronto_zoo));
+        places.add(new Place(getString(R.string.toronto_zoo_name), getString(R.string.toronto_zoo_address), R.drawable.toronto_zoo));
         // Source: https://www.flickr.com/photos/bensonkua/14430920822/
 
         // Create an {@link PlaceAdapter}, whose data source is a list of {@link Place}s. This adapter

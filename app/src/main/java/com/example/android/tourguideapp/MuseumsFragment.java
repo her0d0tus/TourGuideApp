@@ -23,16 +23,16 @@ public class MuseumsFragment extends Fragment {
 
         // Create a list of locations
         final ArrayList<Place> places = new ArrayList<Place>();
-        places.add(new Place("The Power Plant", "231 Queens Quay W."));
-        places.add(new Place("Textile Museum of Canada", "55 Centre Ave."));
-        places.add(new Place("Mackenzie House", "82 Bond St."));
-        places.add(new Place("Toronto Railway Museum", "255 Bremner Blvd"));
-        places.add(new Place("Hockey Hall of Fame", "30 Yonge St."));
-        places.add(new Place("Royal Ontario Museum", "100 Queen's Pk"));
-        places.add(new Place("Bata Shoe Museum", "327 Bloor St. W."));
-        places.add(new Place("Spadina Museum", "285 Spadina Rd"));
-        places.add(new Place("Gardiner Museum", "111 Queen's Pk"));
-        places.add(new Place("Fort York National Historic Site", "250 Fort York Blvd"));
+        places.add(new Place(getString(R.string.power_plant_name), getString(R.string.power_plant_address)));
+        places.add(new Place(getString(R.string.textile_museum_name), getString(R.string.textile_museum_address)));
+        places.add(new Place(getString(R.string.mackenzie_house_name), getString(R.string.mackenzie_house_address)));
+        places.add(new Place(getString(R.string.railway_museum_name), getString(R.string.railway_museum_address)));
+        places.add(new Place(getString(R.string.hockey_hall_name), getString(R.string.hockey_hall_address)));
+        places.add(new Place(getString(R.string.royal_ontario_name), getString(R.string.royal_ontario_address)));
+        places.add(new Place(getString(R.string.bata_museum_name), getString(R.string.bata_museum_address)));
+        places.add(new Place(getString(R.string.spadina_museum_name), getString(R.string.spadina_museum_address)));
+        places.add(new Place(getString(R.string.gardiner_museum_name), getString(R.string.gardiner_museum_address)));
+        places.add(new Place(getString(R.string.fort_york_name), getString(R.string.fort_york_address)));
 
         // Create an {@link PlaceAdapter}, whose data source is a list of {@link Place}s. This adapter
         // creates the list items for each item in the list.
